@@ -1,7 +1,7 @@
 # R-Programming
 
 
-Project	Description]
+Projects Description:
 
 1). Airbnb Booking Analysis	Exploratory data analysis and pricing prediction for Airbnb listings.
 
